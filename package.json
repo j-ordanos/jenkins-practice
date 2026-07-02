@@ -1,0 +1,22 @@
+{
+  "name": "jenkins-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Tests passed\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-ordanos/jenkins-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/j-ordanos/jenkins-practice/issues"
+  },
+  "homepage": "https://github.com/j-ordanos/jenkins-practice#readme"
+}
